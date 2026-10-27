@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SD Worx is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://sdworx.com/
+SD Worx is a leading European provider of HR, payroll and workforce management solutions. They help organisations across Europe streamline HR processes, payroll, time‑and‑attendance, and employee engagement, enabling businesses to focus on growth. Their cloud‑based platform combines compliance expertise with modern technology to support companies of all sizes.
+
+**Areas:** HR · Payroll · Workforce-Management · Europe · Cloud
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.sdworx.com/)
+- [Documentation](https://www.sdworx.com/en-en/)
+- [Security](https://www.sdworx.com/en-en/about-sd-worx/security)
+- [Compliance](https://www.sdworx.com/en-en/about-sd-worx/trust-centre)
+- [Privacy policy](https://www.sdworx.com/en-en/privacy)
+- [GitHub](https://github.com/SDWorx)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sd-worx/](https://apis.io/providers/sd-worx/).
